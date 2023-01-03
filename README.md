@@ -1,1 +1,3 @@
 # Instagram-User-Analytics
+
+Instagram is a free photo and video sharing application. With billions of active users, Instagram is one of the most popular social networks worldwide to connect with friends, brands, and celebrities. This project summarizes how users engage and interact with Instagram to derive business insights for marketing, product & development teams. These insights are then used by teams across the business to launch a new marketing campaign, decide on features to build for an app, track the success of the app by measuring user engagement and improve the experience altogether while helping the business grow.
